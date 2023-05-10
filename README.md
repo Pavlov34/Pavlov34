@@ -1,5 +1,5 @@
 # 💫 About Me:
-😎 I am currently working on a crypto exchange.<br>📚 I teach cloud technologies.<br>🎸 I like to listen and sing music.<br>🎥 I follow the trends from the industry.
+😎 I am currently working DevOps.<br>📚 I am studying cloud technologies AWS, GCloud.<br>🎸 I like to listen and sing music.<br>🎥 I follow the trends from the industry.
 
 
 ## 🌐 Socials:
